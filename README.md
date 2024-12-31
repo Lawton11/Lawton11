@@ -1,10 +1,10 @@
 
-<h3>Hi, I'm</h3>
-<h1>Adhil Lawton</h1>
+<h1>Hi, I'm Adhil</h1>
+
 <p>Junior Frontend Software developer.....for now</p>
 
 
-<h1 align="left">Feel free to connect with me</h1>
+<h2 align="left">Feel free to connect with me</h2>
 <div align="left">
   <a href="mailto:adhillawton11@protonmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" height="50" width="50" /></a>
   <a href="https://linkedin.com/in/adhillawton" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" height="50" width="50" /></a>
@@ -13,7 +13,7 @@
   <a href="https://discordapp.com/users/Lawton11#3517" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Discord" height="50" width="50" /></a>
 </div>
 
-<h1>Core Skills</h1>
+<h2>Core Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,jquery,scss)](https://skillicons.dev)
 </br>
