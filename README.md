@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Adhil</h1>
 
-<h3>Junior Frontend Software developer.....for now<h3>
+<h3>I've been told that I'm apparently a software engineer<h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWU1Zjl3NTR2a3pxdDJhaDF4eHlxaHVjdmNrcjRudTkzajRjempnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="300" height="300" alt="Peguin coding"/>
 
 <h2 align="left">Feel free to connect with me</h2>
